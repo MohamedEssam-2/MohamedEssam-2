@@ -15,6 +15,11 @@ Hi 👋 I'm Mohamed Essam  <br>Backend Developer specialized in ASP.NET Core.  <
 ---
 [![](https://visitcount.itsvg.in/api?id=MohamedEssam-2&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
