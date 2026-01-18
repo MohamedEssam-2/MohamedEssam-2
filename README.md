@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Mohamed Essam  <br>Backend Developer specialized in ASP.NET Core.  <br>I enjoy building scalable web APIs, working with databases, and writing clean, maintainable code.  <br><br>Currently focusing on:<br>- ASP.NET Core & Web API<br>- Entity Framework Core<br>- SQL Server & MySQL<br>- Problem Solving & Data Structures<br>
+Hi 👋 I'm Mohamed Essam  <br>Backend Developer specialized in ASP.NET Core.  <br>I enjoy building scalable web APIs, working with databases, and writing clean, maintainable code.  <br><br>Currently focusing on:<br>- ASP.NET Core & Web API<br>- Entity Framework Core<br>- SQL Server & Linq<br>- Problem Solving & Data Structures<br>
 
 
 ## 🌐 Socials:
