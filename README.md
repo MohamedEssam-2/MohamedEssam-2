@@ -25,7 +25,6 @@ I build scalable backend systems, design efficient database structures, and appl
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-essam-24baa2345/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mohamed.essam.444615/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mido8786essam2@gmail.com)
