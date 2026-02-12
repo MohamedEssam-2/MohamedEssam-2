@@ -1,7 +1,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=MohamedEssam-2&color=blueviolet)
-# 💫 About Me:
 
-Hi 👋 I'm Mohamed Essam  
+# Hi 👋 I'm Mohamed Essam
+
+🚀 Passionate Backend Developer | ASP.NET Core Specialist | Clean Architecture Enthusiast  
 
 Backend Developer with a strong focus on **ASP.NET Core and Web API development**.  
 I build scalable backend systems, design efficient database structures, and follow clean architecture principles to deliver reliable and maintainable solutions.
