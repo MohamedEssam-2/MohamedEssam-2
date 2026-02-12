@@ -1,7 +1,20 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=MohamedEssam-2&color=blueviolet)
 # 💫 About Me:
-Hi 👋 I'm Mohamed Essam  <br>Backend Developer specialized in ASP.NET Core.  <br>I enjoy building scalable web APIs, working with databases, and writing clean, maintainable code.  <br><br>Currently focusing on:<br>- ASP.NET Core & Web API<br>- Entity Framework Core<br>- SQL Server & Linq<br>- Problem Solving & Data Structures<br>
 
+Hi 👋 I'm Mohamed Essam  
+
+Backend Developer with a strong focus on **ASP.NET Core and Web API development**.  
+I build scalable backend systems, design efficient database structures, and follow clean architecture principles to deliver reliable and maintainable solutions.
+
+ Technical Interests:
+- ASP.NET Core & RESTful APIs
+- Entity Framework Core & LINQ
+- SQL Server & Database Optimization
+- Clean Architecture & Best Practices
+- Problem Solving & Data Structures
+
+📈 Constantly learning and improving to become a better software engineer.
+****
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamed.essam.444615/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-essam-24baa2345/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mido8786essam2@gmail.com) 
