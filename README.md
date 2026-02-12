@@ -16,11 +16,8 @@ I build scalable backend systems, design efficient database structures, and appl
 - SQL Server & Database Optimization  
 - Clean Architecture & SOLID Principles  
 - Authentication & Authorization (JWT)  
-- Problem Solving & Data Structures  
-- System Design Fundamentals  
 
  Continuously improving my backend and system design skills to build production-ready, scalable applications.
-
 ---
 
 ## 🌐 Connect With Me
