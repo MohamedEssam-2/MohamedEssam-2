@@ -18,6 +18,7 @@ I build scalable backend systems, design efficient database structures, and appl
 - Authentication & Authorization (JWT)  
 
  Continuously improving my backend and system design skills to build production-ready, scalable applications.
+ 
 ---
 
 ## 🌐 Connect With Me
