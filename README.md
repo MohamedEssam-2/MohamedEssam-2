@@ -1,27 +1,37 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=MohamedEssam-2&color=blueviolet)
 
-# Hi 👋 I'm Mohamed Essam
+# Hi 👋 I'm Mohamed Essam  
 
-🚀 Passionate Backend Developer | ASP.NET Core Specialist | Clean Architecture Enthusiast  
+🚀 Backend Developer | ASP.NET Core Specialist | Clean Architecture Enthusiast  
 
 Backend Developer with a strong focus on **ASP.NET Core and Web API development**.  
-I build scalable backend systems, design efficient database structures, and follow clean architecture principles to deliver reliable and maintainable solutions.
+I build scalable backend systems, design efficient database structures, and apply clean architecture principles to deliver reliable and maintainable solutions.
 
- Technical Interests:
-- ASP.NET Core & RESTful APIs
-- Entity Framework Core & LINQ
-- SQL Server & Database Optimization
-- Clean Architecture & Best Practices
-- Problem Solving & Data Structures
+---
 
-📈 Constantly learning and improving to become a better software engineer.
+## 🚀 Technical Interests
 
-****
+- ASP.NET Core & RESTful APIs  
+- Entity Framework Core & LINQ  
+- SQL Server & Database Optimization  
+- Clean Architecture & SOLID Principles  
+- Authentication & Authorization (JWT)  
+- Problem Solving & Data Structures  
+- System Design Fundamentals  
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamed.essam.444615/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-essam-24baa2345/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mido8786essam2@gmail.com) 
+📈 Continuously improving my backend and system design skills to build production-ready, scalable applications.
 
-# 💻 Tech Stack:
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-essam-24baa2345/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamed.essam.444615/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mido8786essam2@gmail.com)
+
+---
+
+# 💻 Tech Stack
 
 ### 🖥️ Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -54,27 +64,27 @@ I build scalable backend systems, design efficient database structures, and foll
 
 ---
 
+## 🚀 Featured Projects
+
+- 🧠 **Course Platform API**  
+  ASP.NET Core Web API built with Clean Architecture, JWT Authentication, and EF Core.
+
+- 📌 **Todo Management System**  
+  ASP.NET MVC application implementing Repository Pattern and SQL Server integration.
+
+- 🔐 **Authentication & Authorization System**  
+  Secure API with JWT, Role-Based Authorization, and layered architecture.
+
 ---
-# 📊 GitHub Stats:
+
+# 📊 GitHub Stats
+
 ![](https://nirzak-streak-stats.vercel.app/?user=MohamedEssam-2&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam-2&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MohamedEssam-2&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam-2&theme=dark&hide_border=true&layout=compact)
 
+---
 
-
-[![](https://visitcount.itsvg.in/api?id=MohamedEssam-2&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-<!-- Snake Game Repo View -->
-
-
-
-
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
