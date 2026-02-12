@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=MohamedEssam-2&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=MohamedEssam-2&color=blueviolet&style=for-the-badge)
 
 # Hi 👋 I'm Mohamed Essam  
 
@@ -9,7 +9,7 @@ I build scalable backend systems, design efficient database structures, and appl
 
 ---
 
-## 🚀 Technical Interests
+## Technical Interests
 
 - ASP.NET Core & RESTful APIs  
 - Entity Framework Core & LINQ  
@@ -19,7 +19,7 @@ I build scalable backend systems, design efficient database structures, and appl
 - Problem Solving & Data Structures  
 - System Design Fundamentals  
 
-📈 Continuously improving my backend and system design skills to build production-ready, scalable applications.
+ Continuously improving my backend and system design skills to build production-ready, scalable applications.
 
 ---
 
