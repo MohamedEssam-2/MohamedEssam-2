@@ -64,18 +64,6 @@ I build scalable backend systems, design efficient database structures, and appl
 
 ---
 
-## 🚀 Featured Projects
-
-- 🧠 **Course Platform API**  
-  ASP.NET Core Web API built with Clean Architecture, JWT Authentication, and EF Core.
-
-- 📌 **Todo Management System**  
-  ASP.NET MVC application implementing Repository Pattern and SQL Server integration.
-
-- 🔐 **Authentication & Authorization System**  
-  Secure API with JWT, Role-Based Authorization, and layered architecture.
-
----
 
 # 📊 GitHub Stats
 
