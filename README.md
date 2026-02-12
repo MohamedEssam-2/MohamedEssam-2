@@ -25,10 +25,11 @@ I build scalable backend systems, design efficient database structures, and appl
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-essam-24baa2345/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamed.essam.444615/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mido8786essam2@gmail.com)
-[![CV](https://img.shields.io/badge/CV-%23000000.svg?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1zHx81E6GFvkJkrrnk-uY8JRvoSIgme3B/view)
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-essam-24baa2345/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mohamed.essam.444615/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mido8786essam2@gmail.com)
+[![CV](https://img.shields.io/badge/CV-F4B400?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1zHx81E6GFvkJkrrnk-uY8JRvoSIgme3B/view)
 
 ---
 
