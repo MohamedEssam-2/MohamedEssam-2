@@ -40,7 +40,7 @@ I build secure, scalable, and maintainable RESTful APIs, applying **Clean Archit
 * 🎓 **Education:** B.Sc. in Computer Science — Thebes Academy (GPA: 3.39 / 4.0)
 * 💻 **Specialization:** ASP.NET Core Web API, C#, Clean Architecture & Database Management
 * 📍 **Location:** Cairo, Egypt
-* 🚀 **Current Status:** Open to Junior Backend .NET Developer opportunities
+* **Current Status:** Open to Junior Backend .NET Developer opportunities
 
 ---
 
