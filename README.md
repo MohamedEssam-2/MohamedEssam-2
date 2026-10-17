@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Mohamed Essam
-
+![Visitor Count](https://komarev.com/ghpvc/?username=MohamedEssam-2&color=blueviolet&style=for-the-badge)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,35:302b63,70:7c3aed,100:06b6d4&height=250&section=header&text=Mohamed%20Essam&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ASP.NET%20Core%20Backend%20Developer&descSize=21&descAlignY=58" width="100%" />
@@ -10,9 +10,7 @@
 
 <br/>
 
-<a href="https://github.com/MohamedEssam-2">
-  <img src="https://komarev.com/ghpvc/?username=MohamedEssam-2&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitors" />
-</a>
+
 <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-7c3aed?style=for-the-badge" alt="Backend Engineering" />
 <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-06b6d4?style=for-the-badge" alt="Cairo, Egypt" />
 
