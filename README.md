@@ -107,34 +107,56 @@
 </div>
 
 
-
-### 📌 About the Project
-
-A secure event management API built with ASP.NET Core, featuring Clean Architecture, JWT authentication, Stripe payments, Redis caching, background jobs, and cloud image storage.
-
 ### 🧰 Technology Stack
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,sqlserver,redis,postgres)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/Clean%20Architecture-512BD4?style=flat-square" alt="Clean Architecture" />
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe Webhooks" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/Hangfire-00AEEF?style=flat-square" alt="Hangfire" />
-<img src="https://img.shields.io/badge/Serilog-4472C4?style=flat-square" alt="Serilog" />
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" height="40" alt="C#" />
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" alt=".NET" />
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40" alt="SQL Server" />
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="40" alt="Redis" />
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Clean_Architecture-6D28D9?style=for-the-badge" height="40" alt="Clean Architecture" />
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" alt="Entity Framework Core" />
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40" alt="JWT" />
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="40" alt="Stripe Webhooks" />
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="40" alt="Cloudinary" />
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Hangfire-00AEEF?style=for-the-badge" height="40" alt="Hangfire" />
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Serilog-4472C4?style=for-the-badge" height="40" alt="Serilog" />
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" alt="ASP.NET Core" />
+</td>
+</tr>
+</table>
 
 </div>
-
-<div align="center">
-
-[**📂 View Source Code**](https://github.com/MohamedEssam-2/Event-Management-System)
-
-</div>
-
-
 
 ---
 
