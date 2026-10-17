@@ -106,47 +106,23 @@
 
 </div>
 
-### ✨ Key Engineering Highlights
 
-- 🏛️ **Architecture:** Clean Architecture, Repository, Unit of Work, and Specification patterns.
-- 🔐 **Security:** ASP.NET Core Identity, JWT, refresh tokens, email confirmation, password reset, and ownership-based authorization.
-- 💳 **Payment Lifecycle:** Stripe Checkout with webhook-based payment confirmation.
-- 🛡️ **Reliability:** Idempotent payment handling to help prevent duplicate processing.
-- 🎫 **Business Logic:** Event capacity validation, free registrations, paid orders, and registration workflows.
-- ⚡ **Performance & Background Jobs:** Redis caching and Hangfire background job processing.
-- 📋 **Logging:** Structured application logging with Serilog.
-- ☁️ **Integrations:** Cloudinary image management and email notifications.
-- 🔎 **Data Access:** Filtering, sorting, searching, pagination, and soft deletion.
+### 📌 About the Project
 
-### 🔄 Payment Workflow
-
-<div align="center">
-
-`Create Order` → `Stripe Checkout` → `Payment Webhook` → `Validate Payment` → `Complete Order & Register`
-
-</div>
+A secure event management API built with ASP.NET Core, featuring Clean Architecture, JWT authentication, Stripe payments, Redis caching, background jobs, and cloud image storage.
 
 ### 🧰 Technology Stack
 
+[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis)](https://skillicons.dev)
+
+`Clean Architecture` · `EF Core` · `JWT` · `Stripe Webhooks` · `Cloudinary` · `Hangfire` · `Serilog`
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,redis&theme=dark" alt="C#, .NET, SQL Server, Redis" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Clean%20Architecture-7C3AED?style=flat-square" alt="Clean Architecture" />
-<img src="https://img.shields.io/badge/EF%20Core-68217A?style=flat-square" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens" alt="JWT" />
-<img src="https://img.shields.io/badge/Stripe%20Webhooks-635BFF?style=flat-square" alt="Stripe Webhooks" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/Hangfire-EC4A3F?style=flat-square" alt="Hangfire" />
-<img src="https://img.shields.io/badge/Serilog-2D2D2D?style=flat-square" alt="Serilog" />
-
-<br/>
-
-[![View Source Code](https://img.shields.io/badge/VIEW%20SOURCE%20CODE-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/MohamedEssam-2/Event-Management-System)
+[**📂 View Source Code**](https://github.com/MohamedEssam-2/Event-Management-System)
 
 </div>
+
 
 ---
 
