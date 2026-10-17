@@ -95,45 +95,60 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Latest Project
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1b4b,50:6d28d9,100:0891b2&height=140&section=header&text=Event%20Management%20API&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Event Management API" />
 
 ### 🎟️ Event Management System API
 
-A backend platform for event discovery, registration, and paid bookings.
+**A secure, payment-enabled backend built with ASP.NET Core.**
 
-**Highlights**
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)](https://stripe.com/)
 
-- 🏛️ Clean Architecture with Repository, Unit of Work, and Specification patterns.
-- 🔐 ASP.NET Core Identity, JWT authentication, refresh tokens, and ownership-based authorization.
-- 💳 Stripe Checkout and webhook-based payment confirmation.
-- 🛡️ Idempotent payment handling to help prevent duplicate payment processing.
-- 🎫 Free registration, paid orders, event capacity validation, and registration workflows.
-- ☁️ Cloudinary image management and email notifications.
-- 🔎 Search, filtering, sorting, pagination, and soft deletion.
+</div>
 
-**Tech:** C# · ASP.NET Core Web API · EF Core · SQL Server · JWT · Stripe · Cloudinary
+### ✨ Key Engineering Highlights
 
-[![Explore Project](https://img.shields.io/badge/Explore%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedEssam-2)
+- 🏛️ **Architecture:** Clean Architecture, Repository, Unit of Work, and Specification patterns.
+- 🔐 **Security:** ASP.NET Core Identity, JWT, refresh tokens, email confirmation, password reset, and ownership-based authorization.
+- 💳 **Payment Lifecycle:** Stripe Checkout with webhook-based payment confirmation.
+- 🛡️ **Reliability:** Idempotent payment handling to help prevent duplicate processing.
+- 🎫 **Business Logic:** Event capacity validation, free registrations, paid orders, and registration workflows.
+- ☁️ **Integrations:** Cloudinary image management and email notifications.
+- 🔎 **Data Access:** Filtering, sorting, searching, pagination, and soft deletion.
 
-> Replace the link above with the actual Event Management System repository URL.
+### 🔄 Payment Workflow
 
-### 🛒 E-Commerce API — Talabat Clone
+<div align="center">
 
-An e-commerce backend focused on structured architecture, order management, and performance.
+`Create Order` → `Stripe Checkout` → `Payment Webhook` → `Validate Payment` → `Complete Order & Register`
 
-**Highlights**
+</div>
 
-- 🏗️ Clean Architecture and separation of concerns.
-- 🗃️ Repository, Unit of Work, and Specification patterns.
-- ⚡ Redis distributed caching and response caching.
-- 💳 Stripe payment integration and webhook handlers.
-- 🔐 JWT authentication and role-based authorization.
-- 🔎 Product catalog, search, filtering, pagination, and order management.
+### 🧰 Technology Stack
 
-**Tech:** C# · ASP.NET Core · EF Core · SQL Server · Redis · Stripe · JWT
+<div align="center">
 
-[![Explore Project](https://img.shields.io/badge/Explore%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedEssam-2/Talabat-App-Api)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver&theme=dark" alt="C Sharp .NET and SQL Server" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-7C3AED?style=for-the-badge" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/EF%20Core-68217A?style=for-the-badge" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens" alt="JWT" />
+<img src="https://img.shields.io/badge/Stripe%20Webhooks-635BFF?style=for-the-badge" alt="Stripe Webhooks" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary" alt="Cloudinary" />
+
+<br/><br/>
+
+[![View Source Code](https://img.shields.io/badge/VIEW%20SOURCE%20CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](PUT_YOUR_EVENT_REPOSITORY_URL_HERE)
+
+</div>
 ---
 
 ## 📊 GitHub Analytics
@@ -165,22 +180,6 @@ An e-commerce backend focused on structured architecture, order management, and 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| Area | Focus |
-|:---|:---|
-| 🏗️ Architecture | Clean Architecture, CQRS, MediatR |
-| 🔐 Security | JWT, refresh tokens, authorization |
-| 💳 Payments | Stripe Checkout, webhook reliability |
-| ⚡ Performance | Redis caching and efficient queries |
-| ⚙️ Processing | Hangfire and background services |
-| 🧰 Engineering | SOLID, maintainable code, API design |
-
-</div>
 
 ---
 
