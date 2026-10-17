@@ -164,6 +164,8 @@ I'm interested in backend engineering opportunities, collaborating on .NET proje
   <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<br/><br/>
+
 **Building reliable backends, one API at a time.** 💜
 
 </div>
