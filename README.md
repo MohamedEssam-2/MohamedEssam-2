@@ -1,174 +1,136 @@
-# 👋 Hey, I'm Mohamed Essam
-
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,35:302b63,70:7c3aed,100:06b6d4&height=250&section=header&text=Mohamed%20Essam&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ASP.NET%20Core%20Backend%20Developer&descSize=21&descAlignY=58" width="100%" />
+# 👋 Hi, I'm Mohamed Essam
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=850&height=55&lines=Designing+Secure+RESTful+APIs;Clean+Architecture+%7C+CQRS+%7C+MediatR;JWT+Authentication+%7C+Stripe+Webhooks;Redis+Caching+%7C+Background+Jobs;Turning+Business+Requirements+Into+APIs" alt="Typing animation" />
-</a>
+### 💻 Junior ASP.NET Core Backend Developer
 
-<br/>
+Building secure, scalable, and maintainable REST APIs with C# and ASP.NET Core.
 
-<a href="https://github.com/MohamedEssam-2">
-  <img src="https://komarev.com/ghpvc/?username=MohamedEssam-2&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitors" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-7c3aed?style=for-the-badge" alt="Backend Engineering" />
-<img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-06b6d4?style=for-the-badge" alt="Cairo, Egypt" />
+<p>
+  <a href="https://linkedin.com/in/mohamed-essam-24baa2345/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mido8786essam2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/MohamedEssam-2">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-MohamedEssam--2-181717?style=for-the-badge&logo=github)](https://github.com/MohamedEssam-2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-essam-24baa2345/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mido8786essam2@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=MohamedEssam-2&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🚀 About Me
 
-<div align="center">
+I'm a Computer Science graduate passionate about **Backend Development with C# and ASP.NET Core**.
 
-### Backend Engineer in Progress 💜
+I focus on designing and building RESTful APIs with clean architecture, secure authentication, efficient database access, and maintainable code.
 
-**Computer Science Graduate | ASP.NET Core Web API**
-
-Building backend systems with a focus on clean architecture, secure authentication, reliable payment workflows, and maintainable APIs.
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,redis,postgres,git,github,postman&theme=dark" alt="Core backend technologies" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/API%20Development-7C3AED?style=for-the-badge" alt="API Development" />
-<br/><br/>
-RESTful APIs<br/>
-EF Core · LINQ · DI
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Architecture-6D28D9?style=for-the-badge" alt="Architecture" />
-<br/><br/>
-Clean Architecture<br/>
-CQRS · MediatR · SOLID
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Security%20%26%20Payments-0891B2?style=for-the-badge" alt="Security and Payments" />
-<br/><br/>
-JWT · Identity<br/>
-Stripe Webhooks
-</td>
-</tr>
-</table>
-
-🎓 **Thebes Academy** · B.Sc. Computer Science · GPA 3.39/4.0
-
-📍 Cairo, Egypt · 🎯 Open to Junior Backend .NET opportunities
-
-</div>
+- 🔭 **Currently working on:** Event Management System API
+- 🌱 **Currently learning:** Advanced ASP.NET Core, software architecture, and Docker
+- 🧠 **Core interests:** API Design, Clean Architecture, Database Design, and Backend Engineering
+- 🔐 **Security:** JWT Authentication, Refresh Tokens, Role-Based Authorization
+- ⚙️ **Backend tools:** Entity Framework Core, SQL Server, Redis, and Hangfire
+- 🎯 **Goal:** Grow as a Backend .NET Developer by building reliable, real-world applications
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
+### 💻 Languages & Frameworks
 
-### 💜 Languages & Backend
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="C Sharp and .NET" />
-
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=white" alt="C Sharp" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/RESTful%20APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
-<img src="https://img.shields.io/badge/LINQ-7C3AED?style=for-the-badge" alt="LINQ" />
-<img src="https://img.shields.io/badge/Dependency%20Injection-6D28D9?style=for-the-badge" alt="Dependency Injection" />
-
-### 🏗️ Architecture & Design
-
-<img src="https://img.shields.io/badge/Clean%20Architecture-7C3AED?style=for-the-badge" alt="Clean Architecture" />
-<img src="https://img.shields.io/badge/CQRS-8B5CF6?style=for-the-badge" alt="CQRS" />
-<img src="https://img.shields.io/badge/MediatR-6D28D9?style=for-the-badge" alt="MediatR" />
-<img src="https://img.shields.io/badge/Vertical%20Slice-9333EA?style=for-the-badge" alt="Vertical Slice Architecture" />
-<img src="https://img.shields.io/badge/SOLID-4F46E5?style=for-the-badge" alt="SOLID" />
-<img src="https://img.shields.io/badge/Repository%20%2F%20Unit%20of%20Work-4338CA?style=for-the-badge" alt="Repository and Unit of Work" />
-<img src="https://img.shields.io/badge/Specification%20Pattern-5B21B6?style=for-the-badge" alt="Specification Pattern" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" alt="C#, .NET, Visual Studio"/>
+</p>
 
 ### 🗄️ Databases & Data Access
 
-<img src="https://skillicons.dev/icons?i=sqlserver,postgres,redis&theme=dark" alt="SQL Server PostgreSQL Redis" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres" alt="SQL Server and PostgreSQL"/>
+</p>
 
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/Dapper-2563EB?style=for-the-badge" alt="Dapper" />
-<img src="https://img.shields.io/badge/Database%20Design-0F766E?style=for-the-badge" alt="Database Design" />
+- Entity Framework Core
+- LINQ
+- Dapper
+- Repository Pattern
+- Unit of Work
+- Specification Pattern
+
+### 🏗️ Architecture & Design
+
+- Clean Architecture
+- N-Tier Architecture
+- Vertical Slice Architecture
+- CQRS with MediatR
+- SOLID Principles
+- Dependency Injection
+- RESTful API Design
+- Result Pattern
 
 ### 🔐 Authentication & Security
 
-<img src="https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Identity" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/Refresh%20Tokens-374151?style=for-the-badge" alt="Refresh Tokens" />
-<img src="https://img.shields.io/badge/Role--Based%20Authorization-7C3AED?style=for-the-badge" alt="Role Based Authorization" />
+- ASP.NET Core Identity
+- JWT Authentication
+- Refresh Tokens
+- Role-Based Authorization
+- Resource Ownership Authorization
+- Email Confirmation
+- Password Reset
 
-### ⚙️ Integrations & Background Processing
+### ⚡ Tools & Integrations
 
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-<img src="https://img.shields.io/badge/Stripe%20Webhooks-4F46E5?style=for-the-badge" alt="Stripe Webhooks" />
-<img src="https://img.shields.io/badge/Hangfire-2C3E50?style=for-the-badge" alt="Hangfire" />
-<img src="https://img.shields.io/badge/Background%20Services-0F766E?style=for-the-badge" alt="Background Services" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,redis,docker" alt="Git, GitHub, Postman, Redis, Docker"/>
+</p>
 
-### 🔧 Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio&theme=dark" alt="Git GitHub Postman Visual Studio" />
-
-<img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-<img src="https://img.shields.io/badge/MonsterASP-Deployment-2563EB?style=for-the-badge" alt="MonsterASP" />
-
-</div>
+- Swagger / OpenAPI
+- Stripe Checkout & Webhooks
+- Cloudinary
+- Hangfire
+- Background Services
+- Global Exception Handling
+- Filtering, Sorting, Searching & Pagination
+- MonsterASP Deployment
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Latest Project
 
 ### 🎟️ Event Management System API
 
-A backend platform for event discovery, registration, and paid bookings.
+A RESTful API for managing events, registrations, and payments, built with ASP.NET Core and Clean Architecture principles.
 
-**Highlights**
+**Key Features**
 
-- 🏛️ Clean Architecture with Repository, Unit of Work, and Specification patterns.
-- 🔐 ASP.NET Core Identity, JWT authentication, refresh tokens, and ownership-based authorization.
-- 💳 Stripe Checkout and webhook-based payment confirmation.
-- 🛡️ Idempotent payment handling to help prevent duplicate payment processing.
-- 🎫 Free registration, paid orders, event capacity validation, and registration workflows.
-- ☁️ Cloudinary image management and email notifications.
-- 🔎 Search, filtering, sorting, pagination, and soft deletion.
+- 🏛️ Clean Architecture with clear separation of concerns
+- 🧩 Repository, Unit of Work, and Specification Patterns
+- 🔐 ASP.NET Core Identity with JWT and Refresh Tokens
+- 👥 Role-Based and Resource Ownership Authorization
+- ✉️ Email Confirmation and Password Reset
+- 🎫 Free and paid event registration
+- 💳 Stripe Checkout integration
+- 🔔 Stripe Webhooks for payment confirmation
+- 🛡️ Idempotent payment processing
+- ☁️ Cloudinary integration for media uploads
+- 📧 Email notifications
+- 🔎 Search, filtering, sorting, and pagination
+- 🗑️ Soft deletion and global exception handling
 
-**Tech:** C# · ASP.NET Core Web API · EF Core · SQL Server · JWT · Stripe · Cloudinary
+**Built With**
 
-[![Explore Project](https://img.shields.io/badge/Explore%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedEssam-2)
+`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `JWT` `Stripe` `Cloudinary`
 
-> Replace the link above with the actual Event Management System repository URL.
-
-### 🛒 E-Commerce API — Talabat Clone
-
-An e-commerce backend focused on structured architecture, order management, and performance.
-
-**Highlights**
-
-- 🏗️ Clean Architecture and separation of concerns.
-- 🗃️ Repository, Unit of Work, and Specification patterns.
-- ⚡ Redis distributed caching and response caching.
-- 💳 Stripe payment integration and webhook handlers.
-- 🔐 JWT authentication and role-based authorization.
-- 🔎 Product catalog, search, filtering, pagination, and order management.
-
-**Tech:** C# · ASP.NET Core · EF Core · SQL Server · Redis · Stripe · JWT
-
-[![Explore Project](https://img.shields.io/badge/Explore%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedEssam-2/Talabat-App-Api)
+<p>
+  <!-- Replace YOUR_EVENT_REPO with the actual GitHub repository name -->
+  <a href="https://github.com/MohamedEssam-2/YOUR_EVENT_REPO">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Project on GitHub"/>
+  </a>
+</p>
 
 ---
 
@@ -176,47 +138,39 @@ An e-commerce backend focused on structured architecture, order management, and 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedEssam-2&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam-2&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=A78BFA" alt="Most used languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedEssam-2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=MohamedEssam-2&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEssam-2&bg_color=0D1117&color=A78BFA&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedEssam-2&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam-2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Animation
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MohamedEssam-2/MohamedEssam-2/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEssam-2&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-| Area | Focus |
-|:---|:---|
-| 🏗️ Architecture | Clean Architecture, CQRS, MediatR |
-| 🔐 Security | JWT, refresh tokens, authorization |
-| 💳 Payments | Stripe Checkout, webhook reliability |
-| ⚡ Performance | Redis caching and efficient queries |
-| ⚙️ Processing | Hangfire and background services |
-| 🧰 Engineering | SOLID, maintainable code, API design |
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedEssam-2&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MohamedEssam-2/MohamedEssam-2/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
 
 </div>
 
@@ -226,18 +180,25 @@ An e-commerce backend focused on structured architecture, order management, and 
 
 <div align="center">
 
-I'm interested in backend engineering opportunities, collaborating on .NET projects, and building reliable API-driven applications.
+I'm always interested in connecting with developers and discussing backend engineering, .NET, and software architecture.
 
-<br/>
+<a href="https://linkedin.com/in/mohamed-essam-24baa2345/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Essam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-essam-24baa2345/)
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mido8786essam2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/MohamedEssam-2)
-
-<br/>
-
-**Building reliable backends, one API at a time.** 💜
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,35:302b63,70:7c3aed,100:06b6d4&height=120&section=footer" width="100%" />
+<a href="mailto:mido8786essam2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mido8786essam2-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*Building my backend journey, one API at a time.*
+
+</div>
+```
