@@ -42,7 +42,6 @@
 <div align="center">
 
 ### 💜 Languages & Backend
-
 <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="C Sharp and .NET" />
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white" alt="C Sharp" />
@@ -52,7 +51,6 @@
 <img src="https://img.shields.io/badge/Dependency%20Injection-6D28D9?style=flat-square" alt="Dependency Injection" />
 
 ### 🏗️ Architecture & Design
-
 <img src="https://img.shields.io/badge/Clean%20Architecture-7C3AED?style=flat-square" alt="Clean Architecture" />
 <img src="https://img.shields.io/badge/CQRS-8B5CF6?style=flat-square" alt="CQRS" />
 <img src="https://img.shields.io/badge/MediatR-6D28D9?style=flat-square" alt="MediatR" />
@@ -62,7 +60,6 @@
 <img src="https://img.shields.io/badge/Specification%20Pattern-5B21B6?style=flat-square" alt="Specification Pattern" />
 
 ### 🗄️ Databases & Data Access
-
 <img src="https://skillicons.dev/icons?i=sqlserver,postgres,redis&theme=dark" alt="SQL Server, PostgreSQL, Redis" />
 
 <img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
@@ -70,14 +67,12 @@
 <img src="https://img.shields.io/badge/Database%20Design-0F766E?style=flat-square" alt="Database Design" />
 
 ### 🔐 Authentication & Security
-
 <img src="https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Identity" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 <img src="https://img.shields.io/badge/Refresh%20Tokens-374151?style=flat-square" alt="Refresh Tokens" />
 <img src="https://img.shields.io/badge/Role--Based%20Authorization-7C3AED?style=flat-square" alt="Role Based Authorization" />
 
 ### ⚙️ Integrations & Background Processing
-
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
 <img src="https://img.shields.io/badge/Stripe%20Webhooks-4F46E5?style=flat-square" alt="Stripe Webhooks" />
 <img src="https://img.shields.io/badge/Hangfire-2C3E50?style=flat-square" alt="Hangfire" />
@@ -86,9 +81,7 @@
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 
 ### 🔧 Tools & Workflow
-
 <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio&theme=dark" alt="Git, GitHub, Postman, Visual Studio" />
-
 <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
 <img src="https://img.shields.io/badge/MonsterASP-Deployment-2563EB?style=flat-square" alt="MonsterASP" />
 
@@ -175,9 +168,7 @@
 ## 🐍 Contribution Animation
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/MohamedEssam-2/MohamedEssam-2/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
