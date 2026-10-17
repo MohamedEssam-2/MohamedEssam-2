@@ -9,9 +9,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-7c3aed?style=flat-square" alt="Backend Engineering" />
+
 <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-06b6d4?style=flat-square" alt="Cairo, Egypt" />
 
 <br/>
+
 
 <a href="https://github.com/MohamedEssam-2">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -95,6 +97,7 @@ I build secure, scalable, and maintainable RESTful APIs, applying **Clean Archit
 <img src="https://img.shields.io/badge/MonsterASP-Deployment-2563EB?style=for-the-badge" alt="MonsterASP" />
 
 </div>
+
 ---
 
 ## 🚀 Latest Project
