@@ -26,49 +26,39 @@
 
 ## ⚡ About Me
 
-<div align="center">
-
-### Backend Engineer in Progress 💜
-
-**Computer Science Graduate | ASP.NET Core Web API**
-
-Building backend systems with a focus on clean architecture, secure authentication, reliable payment workflows, and maintainable APIs.
+> 🚀 **Backend Engineer in Progress** | Passionate about building high-performance, secure, and maintainable web APIs using **.NET & ASP.NET Core**.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,redis,postgres,git,github,postman&theme=dark" alt="Core backend technologies" />
-
-<br/><br/>
-
 <table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/API%20Development-7C3AED?style=for-the-badge" alt="API Development" />
-<br/><br/>
-RESTful APIs<br/>
-EF Core · LINQ · DI
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Architecture-6D28D9?style=for-the-badge" alt="Architecture" />
-<br/><br/>
-Clean Architecture<br/>
-CQRS · MediatR · SOLID
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Security%20%26%20Payments-0891B2?style=for-the-badge" alt="Security and Payments" />
-<br/><br/>
-JWT · Identity<br/>
-Stripe Webhooks
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Education & Status</h3>
+      <ul>
+        <li><b>Degree:</b> B.Sc. in Computer Science</li>
+        <li><b>Academy:</b> Thebes Academy (Class of 2024)</li>
+        <li><b>GPA:</b> <code>3.39 / 4.00</code> (Very Good with Honors)</li>
+        <li><b>Location:</b> Cairo, Egypt 📍</li>
+        <li><b>Status:</b> 🚀 Open for Junior .NET Backend roles</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 Core Engineering Mindset</h3>
+      <ul>
+        <li>🏗️ <b>Clean Architecture:</b> CQRS, MediatR, SOLID</li>
+        <li>🔐 <b>Security First:</b> Identity, JWT, Role Authorization</li>
+        <li>💳 <b>Integrations:</b> Stripe Checkout & Webhooks</li>
+        <li>⚡ <b>Performance:</b> Redis Caching & LINQ Tuning</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-🎓 **Thebes Academy** · B.Sc. Computer Science · GPA 3.39/4.0
-
-📍 Cairo, Egypt · 🎯 Open to Junior Backend .NET opportunities
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-ASP.NET%20Core%20Web%20API-7c3aed?style=flat-square&logo=dotnet" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20CQRS-06b6d4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-JWT%20%26%20Identity-512bd4?style=flat-square" />
 </div>
-
 ---
 
 ## 🛠️ Tech Stack & Skills
