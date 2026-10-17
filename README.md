@@ -26,37 +26,48 @@
 
 ## ⚡ About Me
 
-```csharp
-public sealed class BackendDeveloper
-{
-    public string Name => "Mohamed Essam";
-    public string Role => "Junior ASP.NET Core Developer";
-    public string Location => "Cairo, Egypt";
+<div align="center">
 
-    public string[] CoreTechnologies =>
-    [
-        "C#", "ASP.NET Core Web API",
-        "Entity Framework Core", "SQL Server", "Redis"
-    ];
+### Backend Engineer in Progress 💜
 
-    public string[] Architecture =>
-    [
-        "Clean Architecture", "CQRS", "MediatR",
-        "Repository Pattern", "Unit of Work", "SOLID"
-    ];
+**Computer Science Graduate | ASP.NET Core Web API**
 
-    public string EngineeringGoal =>
-        "Build secure, maintainable and reliable APIs.";
-}
-```
+Building backend systems with a focus on clean architecture, secure authentication, reliable payment workflows, and maintainable APIs.
 
-🎓 Computer Science graduate from **Thebes Academy** — GPA: **3.39 / 4.0**.
+<br/>
 
-💻 Focused on backend engineering with ASP.NET Core, RESTful API design, authentication, database access, and payment integrations.
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,redis,postgres,git,github,postman&theme=dark" alt="Core backend technologies" />
 
-🧩 Interested in clean code, architectural patterns, performance optimization, and reliable business workflows.
+<br/><br/>
 
-🚀 Open to **Junior Backend .NET Developer** opportunities.
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/API%20Development-7C3AED?style=for-the-badge" alt="API Development" />
+<br/><br/>
+RESTful APIs<br/>
+EF Core · LINQ · DI
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Architecture-6D28D9?style=for-the-badge" alt="Architecture" />
+<br/><br/>
+Clean Architecture<br/>
+CQRS · MediatR · SOLID
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Security%20%26%20Payments-0891B2?style=for-the-badge" alt="Security and Payments" />
+<br/><br/>
+JWT · Identity<br/>
+Stripe Webhooks
+</td>
+</tr>
+</table>
+
+🎓 **Thebes Academy** · B.Sc. Computer Science · GPA 3.39/4.0
+
+📍 Cairo, Egypt · 🎯 Open to Junior Backend .NET opportunities
+
+</div>
 
 ---
 
