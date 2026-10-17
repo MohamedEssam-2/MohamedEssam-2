@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Mohamed Essam
-![Visitor Count](https://komarev.com/ghpvc/?username=MohamedEssam-2&color=blueviolet&style=for-the-badge)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,35:302b63,70:7c3aed,100:06b6d4&height=250&section=header&text=Mohamed%20Essam&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ASP.NET%20Core%20Backend%20Developer&descSize=21&descAlignY=58" width="100%" />
@@ -26,39 +26,15 @@
 
 ## ⚡ About Me
 
-> 🚀 **Backend Engineer in Progress** | Passionate about building high-performance, secure, and maintainable web APIs using **.NET & ASP.NET Core**.
-
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Education & Status</h3>
-      <ul>
-        <li><b>Degree:</b> B.Sc. in Computer Science</li>
-        <li><b>Academy:</b> Thebes Academy (Class of 2024)</li>
-        <li><b>GPA:</b> <code>3.39 / 4.00</code> (Very Good with Honors)</li>
-        <li><b>Location:</b> Cairo, Egypt 📍</li>
-        <li><b>Status:</b> 🚀 Open for Junior .NET Backend roles</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💡 Core Engineering Mindset</h3>
-      <ul>
-        <li>🏗️ <b>Clean Architecture:</b> CQRS, MediatR, SOLID</li>
-        <li>🔐 <b>Security First:</b> Identity, JWT, Role Authorization</li>
-        <li>💳 <b>Integrations:</b> Stripe Checkout & Webhooks</li>
-        <li>⚡ <b>Performance:</b> Redis Caching & LINQ Tuning</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-ASP.NET%20Core%20Web%20API-7c3aed?style=flat-square&logo=dotnet" />
-  <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20CQRS-06b6d4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-JWT%20%26%20Identity-512bd4?style=flat-square" />
+
+| 🎓 Education | 🏗️ Architecture | 🔐 Security & Payments | 📍 Current Status |
+| :---: | :---: | :---: | :---: |
+| **B.Sc. Computer Science**<br/>Thebes Academy<br/>`GPA: 3.39 / 4.0` | **Clean Architecture**<br/>CQRS · MediatR<br/>SOLID · Repository Pattern | **JWT & Identity**<br/>Stripe Webhooks<br/>Role Authorization | **Cairo, Egypt**<br/>Open to Junior .NET<br/>Backend Roles 🚀 |
+
 </div>
+
+> 🎯 **My Goal:** Turning complex business requirements into clean, scalable, and fully documented RESTful APIs.
 ---
 
 ## 🛠️ Tech Stack & Skills
