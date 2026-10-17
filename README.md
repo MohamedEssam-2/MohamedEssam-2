@@ -187,9 +187,7 @@ An e-commerce backend focused on structured architecture, order management, and 
 ## 🐍 Contribution Animation
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/MohamedEssam-2/MohamedEssam-2/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
