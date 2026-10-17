@@ -163,20 +163,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedEssam-2&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam-2&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=A78BFA" alt="Most used languages" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=MohamedEssam-2&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4" alt="GitHub statistics" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam-2&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&bg_color=0D1117&title_color=A78BFA" alt="Most used languages" />
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=MohamedEssam-2&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEssam-2&bg_color=0D1117&color=A78BFA&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
-
-<br/>
-
-<img width="85%" src="https://github-profile-trophy.vercel.app/?username=MohamedEssam-2&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+<img width="55%" src="https://streak-stats.demolab.com?user=MohamedEssam-2&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
 
 </div>
 
