@@ -102,15 +102,9 @@ I build secure, scalable, and maintainable RESTful APIs, applying **Clean Archit
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1b4b,50:6d28d9,100:0891b2&height=60&section=header&text=Event%20Management%20API&fontSize=19&fontColor=ffffff&animation=fadeIn" width="70%" alt="Event Management API" />
 
-#### 🎟️ Event Management System API
 
-*A secure, payment-enabled backend built with ASP.NET Core.*
 
 <br/>
-
-<a href="https://github.com/MohamedEssam-2/Event-Management-System">
-  <img src="https://img.shields.io/badge/View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-</a>
 
 </div>
 
@@ -126,6 +120,10 @@ A secure event management API built with ASP.NET Core, featuring Clean Architect
 * **Security & Payments:** JWT Authentication, ASP.NET Core Identity, Stripe Webhooks
 * **Background Jobs & Logging:** Hangfire, Serilog
 * **Storage & Utilities:** Cloudinary
+
+<a href="https://github.com/MohamedEssam-2/Event-Management-System">
+  <img src="https://img.shields.io/badge/View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
 ---
 
 ## 📊 GitHub Analytics
