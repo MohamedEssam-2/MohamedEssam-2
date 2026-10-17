@@ -172,14 +172,7 @@ I'm interested in backend engineering opportunities, collaborating on .NET proje
 **Building reliable backends, one API at a time.** 💜
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,35:302b63,70:7c3aed,100:06b6d4&height=80&section=footer" width="100%" alt="Footer"/>
+
 ---
-
-## 🐍 Contribution Animation
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
 
 </div>
