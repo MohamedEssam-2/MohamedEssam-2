@@ -154,8 +154,6 @@ A secure event management API built with ASP.NET Core, featuring Clean Architect
 
 I'm interested in backend engineering opportunities, collaborating on .NET projects, and building reliable API-driven applications.
 
-<br/><br/>
-
 <a href="https://linkedin.com/in/mohamed-essam-24baa2345/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
