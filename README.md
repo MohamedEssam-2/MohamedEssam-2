@@ -107,21 +107,33 @@
 </div>
 
 
+
 ### 📌 About the Project
 
 A secure event management API built with ASP.NET Core, featuring Clean Architecture, JWT authentication, Stripe payments, Redis caching, background jobs, and cloud image storage.
 
 ### 🧰 Technology Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis)](https://skillicons.dev)
+<div align="center">
 
-`Clean Architecture` · `EF Core` · `JWT` · `Stripe Webhooks` · `Cloudinary` · `Hangfire` · `Serilog`
+[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,sqlserver,redis,postgres)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-512BD4?style=flat-square" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe Webhooks" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Hangfire-00AEEF?style=flat-square" alt="Hangfire" />
+<img src="https://img.shields.io/badge/Serilog-4472C4?style=flat-square" alt="Serilog" />
+
+</div>
 
 <div align="center">
 
 [**📂 View Source Code**](https://github.com/MohamedEssam-2/Event-Management-System)
 
 </div>
+
 
 
 ---
