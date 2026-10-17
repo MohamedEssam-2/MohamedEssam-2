@@ -33,13 +33,14 @@
 
 ## ⚡ About Me
 
-<div align="center">
+I am a Computer Science graduate from **Thebes Academy** (GPA: 3.39 / 4.0) with a strong focus on **ASP.NET Core Backend Development**.
 
-| 💻 Backend Development | 🏗️ Architecture | 🗄️ Data & Performance | 🎯 Career Goal |
-|:---:|:---:|:---:|:---:|
-| **C# · ASP.NET Core**<br/>RESTful Web APIs | **Clean Architecture**<br/>CQRS · MediatR · SOLID | **SQL Server · EF Core**<br/>Redis · LINQ | **Computer Science Graduate**<br/>Seeking Junior .NET Backend Roles |
+I build secure, scalable, and maintainable RESTful APIs, applying **Clean Architecture**, **CQRS**, and **SOLID principles**. My hands-on experience includes implementing JWT authentication, Entity Framework Core, Redis caching, and Stripe payment integration with webhooks.
 
-</div>
+* 🎓 **Education:** B.Sc. in Computer Science — Thebes Academy (GPA: 3.39 / 4.0)
+* 💻 **Specialization:** ASP.NET Core Web API, C#, Clean Architecture & Database Management
+* 📍 **Location:** Cairo, Egypt
+* 🚀 **Current Status:** Open to Junior Backend .NET Developer opportunities
 
 ---
 
