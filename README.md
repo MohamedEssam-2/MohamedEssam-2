@@ -121,9 +121,13 @@ A secure event management API built with ASP.NET Core, featuring Clean Architect
 * **Background Jobs & Logging:** Hangfire, Serilog
 * **Storage & Utilities:** Cloudinary
 
-<a href="https://github.com/MohamedEssam-2/Event-Management-System">
-  <img src="https://img.shields.io/badge/View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-</a>
+<div align="center">
+  <br/>
+  <a href="https://github.com/MohamedEssam-2/Event-Management-System">
+    <img src="https://img.shields.io/badge/View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+  </a>
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
