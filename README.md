@@ -35,8 +35,6 @@
 
 </div>
 
-> 🎯 **My Goal:** Turning business requirements into clean, scalable, and well-documented RESTful APIs.
-
 ---
 
 ## 🛠️ Tech Stack & Skills
