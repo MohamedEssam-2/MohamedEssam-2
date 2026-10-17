@@ -163,11 +163,6 @@ I'm interested in backend engineering opportunities, collaborating on .NET proje
 <a href="https://github.com/MohamedEssam-2">
   <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://drive.google.com/file/d/1HfkMPEWwmNTz1DZtTiPPEkO47n8xYOv4/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/Resume-View%20CV-16A34A?style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV"/>
-</a>
-
-<br/><br/>
 
 **Building reliable backends, one API at a time.** 💜
 
