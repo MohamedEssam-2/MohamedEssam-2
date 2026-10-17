@@ -106,16 +106,15 @@
 
 </div>
 
+### 📌 About the Project
 
+A secure event management API built with ASP.NET Core, featuring Clean Architecture, JWT authentication, Stripe payments, Redis caching, background jobs, and cloud image storage.
 ### 🧰 Technology Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" height="40" alt="C#" />
-</td>
 <td align="center" width="100">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" alt=".NET" />
 </td>
@@ -150,9 +149,7 @@
 <td align="center" width="100">
 <img src="https://img.shields.io/badge/Serilog-4472C4?style=for-the-badge" height="40" alt="Serilog" />
 </td>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" alt="ASP.NET Core" />
-</td>
+
 </tr>
 </table>
 
