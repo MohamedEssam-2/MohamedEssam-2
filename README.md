@@ -106,62 +106,26 @@ I build secure, scalable, and maintainable RESTful APIs, applying **Clean Archit
 
 *A secure, payment-enabled backend built with ASP.NET Core.*
 
-[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)](https://stripe.com/)
+<br/>
+
+<a href="https://github.com/MohamedEssam-2/Event-Management-System">
+  <img src="https://img.shields.io/badge/View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
 
 </div>
 
 ### 📌 About the Project
 
 A secure event management API built with ASP.NET Core, featuring Clean Architecture, JWT authentication, Stripe payments, Redis caching, background jobs, and cloud image storage.
+
 ### 🧰 Technology Stack
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" alt=".NET" />
-</td>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40" alt="SQL Server" />
-</td>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="40" alt="Redis" />
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/Clean_Architecture-6D28D9?style=for-the-badge" height="40" alt="Clean Architecture" />
-</td>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" alt="Entity Framework Core" />
-</td>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40" alt="JWT" />
-</td>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="40" alt="Stripe Webhooks" />
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="40" alt="Cloudinary" />
-</td>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/Hangfire-00AEEF?style=for-the-badge" height="40" alt="Hangfire" />
-</td>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/Serilog-4472C4?style=for-the-badge" height="40" alt="Serilog" />
-</td>
-
-</tr>
-</table>
-
-</div>
-
+* **Core & Framework:** C#, ASP.NET Core Web API, Entity Framework Core
+* **Architecture:** Clean Architecture, CQRS, MediatR, SOLID Principles
+* **Database & Caching:** SQL Server, Redis
+* **Security & Payments:** JWT Authentication, ASP.NET Core Identity, Stripe Webhooks
+* **Background Jobs & Logging:** Hangfire, Serilog
+* **Storage & Utilities:** Cloudinary
 ---
 
 ## 📊 GitHub Analytics
