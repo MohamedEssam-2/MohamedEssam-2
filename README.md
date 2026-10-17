@@ -154,22 +154,26 @@ A secure event management API built with ASP.NET Core, featuring Clean Architect
 
 I'm interested in backend engineering opportunities, collaborating on .NET projects, and building reliable API-driven applications.
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/mohamed-essam-24baa2345/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:mido8786essam2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/MohamedEssam-2">
-  <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=flat-square&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://drive.google.com/file/d/1HfkMPEWwmNTz1DZtTiPPEkO47n8xYOv4/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-View%20CV-16A34A?style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV"/>
 </a>
 
-<br/>
+<br/><br/>
 
 **Building reliable backends, one API at a time.** 💜
 
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,35:302b63,70:7c3aed,100:06b6d4&height=80&section=footer" width="100%" alt="Footer"/>
 
 ---
