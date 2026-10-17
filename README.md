@@ -6,21 +6,27 @@
 
 <br/>
 
+<div align="center">
+
 <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-7c3aed?style=flat-square" alt="Backend Engineering" />
 <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-06b6d4?style=flat-square" alt="Cairo, Egypt" />
 
 <br/>
 
 <a href="https://github.com/MohamedEssam-2">
-  <img src="https://img.shields.io/badge/GitHub-MohamedEssam--2-181717?style=flat-square&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/mohamed-essam-24baa2345/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:mido8786essam2@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<a href="https://drive.google.com/file/d/1HfkMPEWwmNTz1DZtTiPPEkO47n8xYOv4/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-View%20CV-16A34A?style=flat-square&logo=googledrive&logoColor=white" alt="View CV"/>
+</a>
 
+</div>
 </div>
 
 ---
