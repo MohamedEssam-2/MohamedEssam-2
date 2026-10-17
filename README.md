@@ -95,11 +95,12 @@
 
 ---
 
+
 ## 🚀 Latest Project
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1b4b,50:6d28d9,100:0891b2&height=140&section=header&text=Event%20Management%20API&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Event Management API" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1b4b,50:6d28d9,100:0891b2&height=85&section=header&text=Event%20Management%20API&fontSize=24&fontColor=ffffff&animation=fadeIn" width="85%" alt="Event Management API" />
 
 ### 🎟️ Event Management System API
 
@@ -119,6 +120,8 @@
 - 💳 **Payment Lifecycle:** Stripe Checkout with webhook-based payment confirmation.
 - 🛡️ **Reliability:** Idempotent payment handling to help prevent duplicate processing.
 - 🎫 **Business Logic:** Event capacity validation, free registrations, paid orders, and registration workflows.
+- ⚡ **Performance & Background Jobs:** Redis caching and Hangfire background job processing.
+- 📋 **Logging:** Structured application logging with Serilog.
 - ☁️ **Integrations:** Cloudinary image management and email notifications.
 - 🔎 **Data Access:** Filtering, sorting, searching, pagination, and soft deletion.
 
@@ -134,21 +137,24 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver&theme=dark" alt="C Sharp .NET and SQL Server" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,redis&theme=dark" alt="C#, .NET, SQL Server, Redis" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Clean%20Architecture-7C3AED?style=for-the-badge" alt="Clean Architecture" />
 <img src="https://img.shields.io/badge/EF%20Core-68217A?style=for-the-badge" alt="Entity Framework Core" />
 <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens" alt="JWT" />
 <img src="https://img.shields.io/badge/Stripe%20Webhooks-635BFF?style=for-the-badge" alt="Stripe Webhooks" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Hangfire-EC4A3F?style=for-the-badge" alt="Hangfire" />
+<img src="https://img.shields.io/badge/Serilog-2D2D2D?style=for-the-badge" alt="Serilog" />
 
 <br/><br/>
 
-[![View Source Code](https://img.shields.io/badge/VIEW%20SOURCE%20CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](PUT_YOUR_EVENT_REPOSITORY_URL_HERE)
+[![View Source Code](https://img.shields.io/badge/VIEW%20SOURCE%20CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedEssam-2/Event-Management-System)
 
 </div>
+
 ---
 
 ## 📊 GitHub Analytics
