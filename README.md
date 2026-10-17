@@ -149,14 +149,6 @@ A secure event management API built with ASP.NET Core, featuring Clean Architect
 
 ---
 
-## 🐍 Contribution Animation
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -174,6 +166,14 @@ I'm interested in backend engineering opportunities, collaborating on .NET proje
 <a href="https://github.com/MohamedEssam-2">
   <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=flat-square&logo=github" alt="GitHub"/>
 </a>
+
+---
+
+## 🐍 Contribution Animation
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <br/>
 
