@@ -29,9 +29,9 @@
 
 <div align="center">
 
-| 🎓 Education | 🏗️ Architecture | 🔐 Security & Payments | 📍 Current Status |
+| 💻 Backend Development | 🏗️ Architecture | 🗄️ Data & Performance | 🎯 Career Goal |
 |:---:|:---:|:---:|:---:|
-| **B.Sc. Computer Science**<br/>Thebes Academy<br/>`GPA: 3.39 / 4.0` | **Clean Architecture**<br/>CQRS · MediatR<br/>SOLID · Repository Pattern | **JWT & Identity**<br/>Stripe Webhooks<br/>Role Authorization | **Cairo, Egypt**<br/>Open to Junior .NET<br/>Backend Roles 🚀 |
+| **C# · ASP.NET Core**<br/>RESTful Web APIs | **Clean Architecture**<br/>CQRS · MediatR · SOLID | **SQL Server · EF Core**<br/>Redis · LINQ | **Computer Science Graduate**<br/>Seeking Junior .NET Backend Roles |
 
 </div>
 
