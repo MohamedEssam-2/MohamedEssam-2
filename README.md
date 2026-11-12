@@ -118,7 +118,7 @@ A secure event management API built with ASP.NET Core, featuring Clean Architect
 ### 🧰 Technology Stack
 
 * **Core & Framework:** C#, ASP.NET Core Web API, Entity Framework Core
-* **Architecture:** Clean Architecture, CQRS, MediatR, SOLID Principles
+* **Architecture:** N-Tier Architecture, Repository & Unit of Work Patterns, Specification Pattern, SOLID Principles
 * **Database & Caching:** SQL Server, Redis
 * **Security & Payments:** JWT Authentication, ASP.NET Core Identity, Stripe Webhooks
 * **Background Jobs & Logging:** Hangfire, Serilog
